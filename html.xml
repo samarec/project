@@ -1,0 +1,19 @@
+<head>
+	<title>DSP Lab</title>
+</head>
+
+<body>
+  
+  	<input type="file" name="file" id="file">
+  
+  <input type="file" name="file" id="file2">
+  
+	<div align=center>  
+	  <div style="width:400px; height:400px; display: inline-block; text-alignment:center;">
+		<canvas id="myChart" height=200></canvas>
+	  </div>
+	</div>
+	
+
+	
+</body>
